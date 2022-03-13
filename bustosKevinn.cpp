@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace sdt; 
 int main()
 {
 	float A,B,C;
